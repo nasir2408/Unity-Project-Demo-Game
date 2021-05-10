@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 6ca6acda39b544441adcb50c097a4088
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - kunaiPrefab: {instanceID: 0}
+  - kunaipos: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
